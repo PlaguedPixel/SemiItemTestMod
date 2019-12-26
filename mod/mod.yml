@@ -1,0 +1,7 @@
+id: item_test_mod
+name: "Semi Item Test Mod"
+version: 1.0
+author: PlaguedPixel
+description: Various custom item tests using the Semi item API.
+dll: ItemTestMod.dll
+api_version: 1

@@ -1,0 +1,70 @@
+#LAVENDER_AMMOLET_NAME
+Lavender Ammolet
+#LAVENDER_AMMOLET_SHORT_DESC
+Peaceful
+#LAVENDER_AMMOLET_LONG_DESC
+The last gift to the world of an old gunsmith, who’s kind attitude and pleasant demeanor still permeate the soft metal.
+Slightly warm, and smells of lavender.
+#AUTOMATONS_SOUL_NAME
+Automaton's Soul
+#AUTOMATONS_SOUL_SHORT_DESC
+Lost to Space-Time
+#AUTOMATONS_SOUL_LONG_DESC
+The Hegemony of Man has a long legacy of creating intelligent machines such as their dreaded Shock Troopers, or the fearsome Chrome Knight. Nobody, however, remembers the first...
+#BASHFUL_SHOT_NAME
+Bashful Shot
+#BASHFUL_SHOT_SHORT_DESC
+Travel Light
+#BASHFUL_SHOT_LONG_DESC
+These remarkably compatible musket balls prefer to keep to themselves, and don’t like other items getting in the way.
+Maybe don’t pick up that junk.
+#GORGUN_HEAD_NAME
+Gorgun Head
+#GORGUN_HEAD_SHORT_DESC
+Don't Lose It
+#GORGUN_HEAD_LONG_DESC
+This gruesome trinket shows complete mastery of Meduzi, the dreaded Gorgun, such that you can gleefully parade around her grizzly severed head.
+While it retains her former power, such a display of barbarism will earn you no mercy from the already aggressive Gundead, and it may only be a matter of time until your own head is removed.
+#CARPET_BOMB_NAME
+Carpet Bomb
+#CARPET_BOMB_SHORT_DESC
+???
+#CARPET_BOMB_LONG_DESC
+???
+#SNAIL_BULLETS_NAME
+Snail Bullets
+#SNAIL_BULLETS_SHORT_DESC
+Bullets Slow
+#SNAIL_BULLETS_LONG_DESC
+It looks like a colony of snails has made its home in this empty shell to hide from predatory birds. While the shell itself cannot be fired, the slime it oozes from the generations of snails within has interesting properties when paired with other ammunition.
+#SEVENTH_ARM_NAME
+Seventh Arm
+#SEVENTH_ARM_SHORT_DESC
+Eat of the Flesh
+#SEVENTH_ARM_LONG_DESC
+The seventh arm of the Gun Goddess Kaliber. Its flesh bubbles with hatred.
+#SPECTRE_BULLETS_NAME
+Spectre Bullets
+#SPECTRE_BULLETS_SHORT_DESC
+Spooooooky!
+#SPECTRE_BULLETS_LONG_DESC
+These terrifying rounds are modelled after a spirit that shouldn’t even exist.
+#SHOTGUN_CHARM_NAME
+Shotgun Charm
+#SHOTGUN_CHARM_SHORT_DESC
+Mega Blam
+#SHOTGUN_CHARM_LONG_DESC
+Turns any gun into a shotgun for a short time. Use wisely.
+#PUFFBALL_NAME
+Puffball
+#PUFFBALL_SHORT_DESC
+PLOOMPH
+#PUFFBALL_LONG_DESC
+A relative of the Fungun, this Puffball acts in much the same way when squeezed. Unlike it’s deadlier cousins, however, this Puffball does not have legs.
+That makes this puffball sad sometimes, but he’s learned to live with it.
+#DEAD_BATTERY_NAME
+Undead Battery
+#DEAD_BATTERY_SHORT_DESC
+Charge Into Battle
+#DEAD_BATTERY_LONG_DESC
+This receptacle of great power allows its wielder to tap into its stored energy, energizing its wielder in exchange for the drained energy. Recharged using Gundead souls.

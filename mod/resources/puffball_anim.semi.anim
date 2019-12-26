@@ -1,0 +1,58 @@
+$id puffball_anim
+$name Puffball Animation
+$collection item_test_mod:puffball_coll
+
+clip idle prefix item_test_mod wrapmode loop fps 15:
+	puffball_idle_001
+	puffball_idle_002
+	puffball_idle_003
+	puffball_idle_004
+	puffball_idle_005
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+	puffball_idle_001
+
+clip activate prefix item_test_mod wrapmode once fps 10:
+	puffball_activate_001
+	puffball_activate_002
+	puffball_activate_003
+	puffball_activate_004
+	puffball_activate_005
+	puffball_activate_006
+	puffball_activate_007
+
+clip snooze prefix item_test_mod wrapmode loop fps 8:
+	puffball_snooze_001
+	puffball_snooze_002
+	puffball_snooze_003
+	puffball_snooze_004
+	puffball_snooze_005
+	puffball_snooze_006
+	puffball_snooze_007
+	puffball_snooze_008
+	puffball_snooze_009
+	puffball_snooze_010
+	puffball_snooze_011
+	puffball_snooze_012

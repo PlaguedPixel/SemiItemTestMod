@@ -1,0 +1,70 @@
+#LAVENDER_AMMOLET_NAME
+Liliowy Ammolet
+#LAVENDER_AMMOLET_SHORT_DESC
+Spokojny
+#LAVENDER_AMMOLET_LONG_DESC
+Ostatni podarunek dla świata od dawnego rusznikarza, którego miła i przyjazna postawa ciągle przenikna miękki metal.
+Nieco ciepły, i pachnie lawendą.
+#AUTOMATONS_SOUL_NAME
+Dusza Automatu
+#AUTOMATONS_SOUL_SHORT_DESC
+Zagubiona w Czasoprzestrzeni
+#AUTOMATONS_SOUL_LONG_DESC
+Hegemonia Ludzkości ma dużą spuściznę tworzenia inteligentnych maszyn, takich jak ich potworni Elektryczni Żołnierze, i przerażający Chromowani Rycerze. Jednak, nikt nie pamięta ich pierwszego dzieła...
+#BASHFUL_SHOT_NAME
+Nieśmiałe Pociski
+#BASHFUL_SHOT_SHORT_DESC
+Podróżuj Lekko
+#BASHFUL_SHOT_LONG_DESC
+Te niesamowicie kompatybilne pociski do muszkietów wolą być same, i nie lubią innych przedmiotów wchodzących im w drogę.
+Może nie podnoś tych śmieci.
+#GORGUN_HEAD_NAME
+Głowa Giwergony
+#GORGUN_HEAD_SHORT_DESC
+Nie Zgub Jej!
+#GORGUN_HEAD_LONG_DESC
+Ta paskudna głowa pokazuje zupełne mistrzostwo Meduzi, okropna Giwergona, mistrzostwo które pozwala Ci radośnie paradować z jej bladą, odciętą głową.
+Choć głowa jeszcze ma swoją moc, taka ekspozycja barbarzyństwa nie zapewni Ci żadnej formy litości od i tak już agresywnych Brońumarłych, i może jest to tylko kwestią czasu, zanim twoja własna głowa zostanie odcięta.
+#CARPET_BOMB_NAME
+Nalot Dywanowy
+#CARPET_BOMB_SHORT_DESC
+???
+#CARPET_BOMB_LONG_DESC
+???
+#SNAIL_BULLETS_NAME
+Ślimakowe Pociski
+#SNAIL_BULLETS_SHORT_DESC
+Kule Spowalniają
+#SNAIL_BULLETS_LONG_DESC
+Wygląda na to, że kolonia ślimaków zrobiła swój dom w tym pustym naboju, żeby chować się przed drapieżnymi ptakami. Chociaż nie można wystrzelić samego naboju, śluz wydzielany przez pokolenia ślimaków wewnątrz ma ciekawe cechy gdy zostanie połączony z inną amunicją.
+#SEVENTH_ARM_NAME
+Siódma Ręka
+#SEVENTH_ARM_SHORT_DESC
+Jedzenie Ciała
+#SEVENTH_ARM_LONG_DESC
+Siódma ręka Bogini Kalibry. Jej ciało bąbluje z nienawiścią.
+#SPECTRE_BULLETS_NAME
+Kule Widmo
+#SPECTRE_BULLETS_SHORT_DESC
+Straaaaaaaszne!
+#SPECTRE_BULLETS_LONG_DESC
+Te okropne naboje są zaprojektowane z myślą duchu, który nie powinien nawet istnieć.
+#SHOTGUN_CHARM_NAME
+Amulet Strzelby
+#SHOTGUN_CHARM_SHORT_DESC
+Mega-Huk
+#SHOTGUN_CHARM_LONG_DESC
+Zamienia jakąkolwiek giwerę w strzelbę na krótki czas. Używaj ostrożnie.
+#PUFFBALL_NAME
+Purchawka
+#PUFFBALL_SHORT_DESC
+PLUMF
+#PUFFBALL_LONG_DESC
+Krewniak Grzybobroni, ta Purchawka zachowuje sie w taki sam sposób gdy jest ściskana. Inaczej od jej bardziej śmiercionośnych kuzynów, jednak, ta Purchawka nie ma nóg.
+Czasami ten fakt sprawia Purchawce smutek, ale ona się nauczył żyć z tym.
+#DEAD_BATTERY_NAME
+Nieżywa Bateria
+#DEAD_BATTERY_SHORT_DESC
+Ruń do Walki!
+#DEAD_BATTERY_LONG_DESC
+Ten pojemnik wielkiej mocy pozwala, żeby dzierzący zużytkował zmagazynowną energię, wzmocnąc go za wyczerpaną energię. Jest bateria naładowana przez duszy Brońumarłych.
